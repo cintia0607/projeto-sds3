@@ -1,13 +1,13 @@
 const Footer = () => {
     return (
-        <footer className="footer mt-auto py-3 bg-dark">
-            <div className="container">
-                <p className="text-light">App desenvolvido por <a href="https://github.com/cintia0607/cintia.git" target="_blank" rel="noreferrer">Cintia leticia rodrigues</a></p>
-                <p className="text-light"><small><strong>Semana Spring React</strong><br />
-                    Evento promovido pela escola DevSuperior: <a href="https://instagram.com/devsuperior.ig" target="_blank" rel="noreferrer">@devsuperior.ig</a></small></p>
-            </div>
-        </footer>   
+      <footer className="footer mt-auto py-3 bg-dark">
+        <div className="container">
+          <p className="text-light">App desenvolvido por <a href="https://www.linkedin.com/in/romulomotta/" target="_blank" rel="noreferrer">Romulo Di Motta</a></p>
+          <p className="text-light"><small><strong>Semana Spring React</strong><br />
+        Evento promovido pela escola DevSuperior: <a href="https://instagram.com/devsuperior.ig" target="_blank" rel="noreferrer">@devsuperior.ig</a></small></p>
+        </div>
+      </footer>
     );
-}
-
-export default Footer;
+  }
+  
+  export default Footer;
